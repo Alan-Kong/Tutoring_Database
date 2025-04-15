@@ -1,4 +1,4 @@
-# 🎓 Tutoring Business SQL Database & Analytics Dashboard
+ # 🎓 Tutoring Business SQL Database & Analytics Dashboard
 
 This project contains everything needed to manage and analyze a private tutoring business, including SQL scripts and a Power BI dashboard.
 
@@ -85,7 +85,7 @@ Located in `PowerBI/TutoringDashboard.pbix`.
 
 📸 **Sample Preview:**
 
-![Dashboard Screenshot](./screenshots/Dashboard.png)
+![Dashboard Screenshot](./screenshots/Dashboard.PNG)
 
 ---
 
