@@ -85,7 +85,7 @@ Located in `PowerBI/TutoringDashboard.pbix`.
 
 📸 **Sample Preview:**
 
-![Dashboard Screenshot](./screenshots/Dashboard.PNG)
+![Dashboard Screenshot](./Screenshots/Dashboard.PNG)
 
 ---
 
