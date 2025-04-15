@@ -17,12 +17,11 @@ tutoring-sql-project/
 │   └── views.sql
 │
 ├── PowerBI/
-|   ├── DAX_Measures.md
 │   └── TutoringDashboard.pbix
 |   
 │
 ├── screenshots/
-│   └── dashboard.png
+│   └── Dashboard.png
 │
 └── README.md
 ```
