@@ -39,7 +39,6 @@ tutoring-sql-project/
 
 ## 🛠️ Technologies
 
-- SQL Server (Transact-SQL)
 - Azure SQL or Local SQL Server
 - Power BI (with DAX Measures)
 
